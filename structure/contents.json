@@ -1,0 +1,27 @@
+{
+    "language_code": "ti",
+    "english_name": "Tigrinya",
+    "worksheets": [
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "\u121d\u12d5\u122b\u134b\u1275 \u1215\u12f5\u1308\u1275",
+            "filename": "\u121d\u12d5\u122b\u134b\u1275_\u1215\u12f5\u1308\u1275.html",
+            "version": "1.1",
+            "pdf": "\u121d\u12d5\u122b\u134b\u1275_\u1215\u12f5\u1308\u1275.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "\u1213\u1260\u1228\u1273 \u1293\u12ed \u121d\u1295\u1263\u1265 \u1218\u133d\u1213\u134d \u1245\u12f1\u1235",
+            "filename": "\u1213\u1260\u1228\u1273_\u1293\u12ed_\u121d\u1295\u1263\u1265_\u1218\u133d\u1213\u134d_\u1245\u12f1\u1235.html",
+            "version": "2.0",
+            "pdf": "\u1213\u1260\u1228\u1273_\u1293\u12ed_\u121d\u1295\u1263\u1265_\u1218\u133d\u1213\u134d_\u1245\u12f1\u1235.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "\u1213\u1260\u1228\u1273 \u1293\u12ed \u121d\u1295\u1263\u1265 \u1218\u133d\u1213\u134d \u1245\u12f1\u1235 (\u1238\u12cd\u12d3\u1270 \u1270\u1235\u134b \u12d8\u120e\u12ce \u1273\u122a\u12bb\u1275)",
+            "filename": "\u1213\u1260\u1228\u1273_\u1293\u12ed_\u121d\u1295\u1263\u1265_\u1218\u133d\u1213\u134d_\u1245\u12f1\u1235_(\u1238\u12cd\u12d3\u1270_\u1270\u1235\u134b_\u12d8\u120e\u12ce_\u1273\u122a\u12bb\u1275).html",
+            "version": "2.0",
+            "pdf": "\u1213\u1260\u1228\u1273_\u1293\u12ed_\u121d\u1295\u1263\u1265_\u1218\u133d\u1213\u134d_\u1245\u12f1\u1235_(\u1238\u12cd\u12d3\u1270_\u1270\u1235\u134b_\u12d8\u120e\u12ce_\u1273\u122a\u12bb\u1275).pdf"
+        }
+    ]
+}
